@@ -1,0 +1,25 @@
+
+
+The equivalent Python script using Selenium to automate web form submission
+
+
+This script does the following:
+
+Sets up the WebDriver using webdriver_manager for easy installation and management of the ChromeDriver.
+
+Opens the specified URL.
+
+Locates the form elements by their names.
+
+Fills out the form with sample data.
+
+Submits the form.
+
+Attempts to verify the form submission by checking for the presence of a confirmation message.
+
+Closes the browser.
+
+
+
+
+
